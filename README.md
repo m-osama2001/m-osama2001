@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi there, I'm Osama!
 
-<!--
-**m-osama2001/m-osama2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Analyst | Aspiring ML Engineer | AI Explorer**
 
-Here are some ideas to get you started:
+I'm a passionate tech enthusiast currently focused on extracting insights from data and diving deeper into the world of **Machine Learning**, **Deep Learning**, **Computer Vision**, **Natural Language Processing**, and **MLOps**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Focus
+
+- 📊 Data Analysis & Visualization  
+- 🤖 Practicing Machine Learning (Scikit-Learn, Linear Regression, KNN)  
+- 🧠 Learning Deep Learning (TensorFlow, PyTorch)  
+- 👁️ Exploring Computer Vision (OpenCV, YOLO, CNNs)  
+- 🗣️ Playing with NLP (Transformers, BERT, LLMs)  
+- 🔧 Understanding MLOps (Model Deployment, CI/CD, Docker, FastAPI)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Tools:**  
+`Python` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scikit-learn` | `TensorFlow` | `PyTorch` | `OpenCV`  
+`Hugging Face` | `SQL` | `Git & GitHub` | `Jupyter Notebooks` | `VSCode` | `Docker` | `FastAPI` | `Streamlit`
+
+---
+
+## 📈 GitHub Stats
+
+![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=osama12345&show_icons=true&theme=radical)
+---
+
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mosamanoor/)
+- 🧠 [Kaggle](https://www.kaggle.com/muhammadosamanoor)    
+- 📫 Reach out via email: **mosamanoor17@gmail.com**
+
+---
