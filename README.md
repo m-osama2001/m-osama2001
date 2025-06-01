@@ -27,7 +27,7 @@ I'm a passionate tech enthusiast currently focused on extracting insights from d
 
 ## 📈 GitHub Stats
 
-![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=osama12345&show_icons=true&theme=radical)
+![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-osama2001&show_icons=true&theme=radical)
 ---
 
 ## 📬 Let's Connect
